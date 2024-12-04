@@ -59324,7 +59324,7 @@ if(q==null)q=B.w
 s.kc(A.aiz(null,q,!0,null,new A.a19(this,a,b),p,null,r,B.uK,!0,t.z))},
 X3(){var s,r,q,p=this,o=null,n={},m=p.c
 m.toString
-s=(A.bZ(m,o,t.w).w.a.a-20)/10
+s=(A.bZ(m,o,t.w).w.a.a-28)/10
 n.a=s
 n.a=B.c.iN(s,30,50)
 m=A.V(new A.aq(B.AD,new A.a1c(n,p),t.qM),!0,t.cl)
